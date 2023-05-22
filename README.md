@@ -6,9 +6,10 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>What is osTicket?</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- 
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
